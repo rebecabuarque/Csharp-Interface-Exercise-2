@@ -29,12 +29,6 @@ namespace Exercicio_1_Interface
             {
                 Console.WriteLine(item);
             }
-
-    
-
-
-
-
         }
     }
 }

@@ -20,9 +20,9 @@ namespace Exercicio_1_Interface.Services
             for (int i = 1; i <= months; i++)
             {
                 DateTime duoDate = contract.Date.AddMonths(i);
-                double updatedValue = initialValue +  _onlinePaymentService.Interest(initialValue, i);
-                double fullValue = initialValue + _onlinePaymentService.PaymentFee(initialValue);
-                contract.addContract(new Installment(duoDate, updatedValue));
+                double updatedValue = initialValue +  _onlinePaymentService.Interest(initialValue,i);
+                double fullValue = updatedValue + _onlinePaymentService.PaymentFee(updatedValue);
+                contract.addContract(new Installment(duoDate, fullValue));
             }
         }
     }
