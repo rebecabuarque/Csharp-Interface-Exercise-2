@@ -17,8 +17,7 @@ namespace Exercicio_1_Interface.Entities
 
         public override string ToString()
         {
-            return "Intallments\n" + 
-                Date + " - " + "amount" ;
+            return Date.ToString("dd/MM/yyyy") + " - " + "amount" ;
         }
     }
 }

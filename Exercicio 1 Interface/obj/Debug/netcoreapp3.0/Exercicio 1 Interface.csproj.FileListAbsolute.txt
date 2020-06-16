@@ -1,0 +1,11 @@
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\Exercicio 1 Interface\Exercicio 1 Interface\bin\Debug\netcoreapp3.0\Exercicio 1 Interface.exe
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\Exercicio 1 Interface\Exercicio 1 Interface\bin\Debug\netcoreapp3.0\Exercicio 1 Interface.deps.json
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\Exercicio 1 Interface\Exercicio 1 Interface\bin\Debug\netcoreapp3.0\Exercicio 1 Interface.runtimeconfig.json
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\Exercicio 1 Interface\Exercicio 1 Interface\bin\Debug\netcoreapp3.0\Exercicio 1 Interface.runtimeconfig.dev.json
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\Exercicio 1 Interface\Exercicio 1 Interface\bin\Debug\netcoreapp3.0\Exercicio 1 Interface.dll
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\Exercicio 1 Interface\Exercicio 1 Interface\bin\Debug\netcoreapp3.0\Exercicio 1 Interface.pdb
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\Exercicio 1 Interface\Exercicio 1 Interface\obj\Debug\netcoreapp3.0\Exercicio 1 Interface.csprojAssemblyReference.cache
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\Exercicio 1 Interface\Exercicio 1 Interface\obj\Debug\netcoreapp3.0\Exercicio 1 Interface.AssemblyInfoInputs.cache
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\Exercicio 1 Interface\Exercicio 1 Interface\obj\Debug\netcoreapp3.0\Exercicio 1 Interface.AssemblyInfo.cs
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\Exercicio 1 Interface\Exercicio 1 Interface\obj\Debug\netcoreapp3.0\Exercicio 1 Interface.dll
+C:\Users\gerba\Desktop\College\Rebeca Coding\Curso online - Orientado Objetos C#\11- Interfaces\Exercicio 1 Interface\Exercicio 1 Interface\obj\Debug\netcoreapp3.0\Exercicio 1 Interface.pdb
